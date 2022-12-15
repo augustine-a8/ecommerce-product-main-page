@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [see code](https://github.com/augustine-a8/ecommerce-product-main-page.gi)
--   Live Site URL: [live site](https://your-live-site-url.com)
+-   Solution URL: [see code](https://github.com/augustine-a8/ecommerce-product-main-page.git)
+-   Live Site URL: [live site](https://augustine-a8.github.io/ecommerce-product-main-page/)
 
 ## My process
 
