@@ -27,12 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/desktop.png)
+![](./images/mobile.png)
+![](./images/mobile-menu.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [see code](https://github.com/augustine-a8/ecommerce-product-main-page.gi)
+-   Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 
